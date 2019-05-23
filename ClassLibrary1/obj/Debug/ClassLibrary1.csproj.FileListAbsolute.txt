@@ -1,0 +1,13 @@
+C:\Users\Main\Downloads\AwesomeCalculator\AwesomeCalculator\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Main\Downloads\AwesomeCalculator\AwesomeCalculator\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Main\Downloads\AwesomeCalculator\AwesomeCalculator\ClassLibrary1\bin\Debug\AwesomeCalculator.exe
+C:\Users\Main\Downloads\AwesomeCalculator\AwesomeCalculator\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\Main\Downloads\AwesomeCalculator\AwesomeCalculator\ClassLibrary1\bin\Debug\AwesomeCalculator.pdb
+C:\Users\Main\Downloads\AwesomeCalculator\AwesomeCalculator\ClassLibrary1\bin\Debug\AwesomeCalculator.exe.config
+C:\Users\Main\Downloads\AwesomeCalculator\AwesomeCalculator\ClassLibrary1\bin\Debug\nunit.framework.pdb
+C:\Users\Main\Downloads\AwesomeCalculator\AwesomeCalculator\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\Main\Downloads\AwesomeCalculator\AwesomeCalculator\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\Main\Downloads\AwesomeCalculator\AwesomeCalculator\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Main\Downloads\AwesomeCalculator\AwesomeCalculator\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\Main\Downloads\AwesomeCalculator\AwesomeCalculator\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Main\Downloads\AwesomeCalculator\AwesomeCalculator\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
